@@ -1,4 +1,4 @@
-# Engineering study: Power Supply alternative to Ram Air Turbines in Aircrafts *(RAT)*
+# Engineering study: Hinf command scaling for Helicopter
 
 This project is my work on a use case for **"Robust and Optimal Commands"** as a 5th Year **Engineering student at ESTACA**
 
