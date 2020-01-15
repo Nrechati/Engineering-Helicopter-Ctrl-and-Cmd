@@ -24,3 +24,13 @@ This project asked me and my team to scale a **H∞** command for a Helicopter. 
 ## Command Test Model
 
 ![power supply full model](./Ressources/Hinf_model.png)
+
+## Credits
+
+This work was done with my former school colleagues : 
+
+- **Raphael MARTENS**
+- **Antoine MORIN**
+- **Mathieu SOUSA**
+
+And our teacher help, **Dr. Moussa BOUKNIFER**
